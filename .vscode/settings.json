@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "venv/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.languageServer": "Microsoft",
+  "python.formatting.provider": "black",
+  "python.linting.pylintUseMinimalCheckers": false,
+  "python.defaultInterpreterPath": "venv/bin/python3"
+}
